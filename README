@@ -55,7 +55,7 @@ jMetalCpp has been developed in Unix machines (Ubuntu and MacOS X) as well as in
 Windows making use of Cygwin. The make utility has been used to compile the
 software package.
 
-From version 1.5, it is mandatory to use a C++ compilator with C++11 support. This is
+From version 1.5, it is mandatory to use a C++ compiler with C++11 support. This is
 needed to use the C++11 threads library.
 
 =======================================================================================
